@@ -12,4 +12,4 @@
   <img align="center" alt="py" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
 
-Em busca de explorar esse mundo imenso da programação e buscando melhorar a cada dia.
+Em busca de explorar esse mundo imenso da programação e procurando melhorar a cada dia.

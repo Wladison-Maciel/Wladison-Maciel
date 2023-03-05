@@ -2,7 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eiwladison)
 
-![Wladison GitHub stats](https://github-readme-stats.vercel.app/api?username=Wladison-Maciel&show_icons=true&theme=highcontrast)
+![Wladison GitHub stats](https://github-readme-stats.vercel.app/api?username=Wladison-Maciel&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wladison-Maciel)](https://github.com/Wladison-Maciel/github-readme-stats)
 

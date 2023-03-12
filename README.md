@@ -15,8 +15,6 @@
 
 <div align="center">  
 <a href="https://www.instagram.com/eiwladison/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href=franciscowladison97@gmail.com/ target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-
 </div>
 
 <div align="center">

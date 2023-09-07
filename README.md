@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F8F8FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Wladison+Maciel;I'm+16+years+old;Focused+on+Programming📚;I+from+Brazil,+CE;Welcome+to+My+Profile+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Wladison-Maciel&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wladison-Maciel&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Wladison-Maciel&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="Wladison Maciel github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wladison-Maciel&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000" />
 </div>
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Wladison-Maciel&theme=high-contrast)](https://github.com/Wladison-Maciel/github-readme-activity-graph)

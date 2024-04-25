@@ -30,9 +30,9 @@
   Contact:
 </h3>
 
-<a href="https://www.instagram.com/eiwladison/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-1C1B1B?style=for-the-badge&logo=instagram&logoColor=white" />
-<a href="mailto: franciscowladison97@gmail.com" target="_blank"><img src= "https://img.shields.io/badge/Gmail-1C1B1B?style=for-the-badge&logo=gmail&logoColor=white" />
-<a href="mailto: franciscowladison97@outlook.com" target="_blank"><img src= "https://img.shields.io/badge/Microsoft_Outlook-1C1B1B?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+<a href="https://www.instagram.com/eiwladison/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0F132E?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="mailto: franciscowladison97@gmail.com" target="_blank"><img src= "https://img.shields.io/badge/Gmail-0F132E?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto: franciscowladison97@outlook.com" target="_blank"><img src= "https://img.shields.io/badge/Microsoft_Outlook-0F132E?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 
 
 <h3>

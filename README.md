@@ -59,5 +59,5 @@
 
  <div align="center">  
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Wladison-Maciel&show_icons=true&count_private=true&hide_border=false&title_color=FFFFFF&icon_color=B0C4DE&text_color=FFFFFF&bg_color=0d1117" alt="Wladison Maciel Stats" /> 
-  <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wladison-Maciel&layout=compact&hide_border=false&title_color=FFFFFF&text_color=B0C4DE&bg_color=0d1117" />
+  <img width="41%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wladison-Maciel&layout=compact&hide_border=false&title_color=FFFFFF&text_color=B0C4DE&bg_color=0d1117" />
 </div>

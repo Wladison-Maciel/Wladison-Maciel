@@ -2,9 +2,9 @@
   Welcome to my profile
 </h1>
 
- <p align="center">
+ <h3 align="center">
   Hello, my name is Wladison Maciel and I'm passionate about programming 💻
-</p><br>
+</h3><br>
 
  <img src="https://github.com/Wladison-Maciel/PaginaWeb/assets/125041870/3dd30432-d30c-449a-98e3-b795e6ce31a5" width="460px" height="370px" align="right"/>
 

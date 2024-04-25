@@ -26,6 +26,10 @@
   - My hobby is playing sports and my favorite is swimming 🏊‍♂️
 </p>
 
+<p>
+  - I speak Portuguese/Brazil and English/Us 🗣💬
+</p>
+
 <h3>
   Contact:
 </h3>

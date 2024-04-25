@@ -27,20 +27,30 @@
 </p>
 
 <h3>
-  My main skills:
+  Contact:
 </h3>
 
+<a href="https://www.instagram.com/eiwladison/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="mailto: franciscowladison97@gmail.com" target="_blank"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto: franciscowladison97@outlook.com" target="_blank"><img src= "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 
-<div inline>
-  
-</div>
-  <img align="center" alt="jv" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> 
-  <img align="center" alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" margintop="30px"/>
 
-<h1 align="center">
-🚧 Construction 🚧
-  
-</h1>
-  
+<h3>
+  Mains Skills:
+</h3>
+
+![My Skills](https://skillicons.dev/icons?i=java,kotlin,mysql&theme=dark)
+
+<h3>
+  Learning in the moment:
+</h3>
+
+![Studying](https://skillicons.dev/icons?i=vue,html,css,ts&theme=dark)
+
+<h3>
+  My work tools:
+</h3>
+
+![Worktools](https://skillicons.dev/icons?i=vscode,idea,androidstudio,nodejs,npm&theme=dark)
   
 

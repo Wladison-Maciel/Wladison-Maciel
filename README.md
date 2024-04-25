@@ -36,21 +36,28 @@
 
 
 <h3>
-  Mains Skills:
+  Mains Skills 🎯
 </h3>
 
 ![My Skills](https://skillicons.dev/icons?i=java,kotlin,mysql&theme=dark)
 
 <h3>
-  Learning in the moment:
+  Learning in the moment 📚
 </h3>
 
 ![Studying](https://skillicons.dev/icons?i=vue,html,css,ts&theme=dark)
 
 <h3>
-  My work tools:
+  My work tools 🛠
 </h3>
 
-![Worktools](https://skillicons.dev/icons?i=vscode,idea,androidstudio,nodejs,npm&theme=dark)
-  
+![Worktools](https://skillicons.dev/icons?i=vscode,idea,androidstudio,nodejs,npm,figma,git&theme=dark)
 
+<h2 align="center">
+  📊 GitHub Stats 📊
+</h2>
+
+ <div align="center">  
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Wladison-Maciel&show_icons=true&count_private=true&hide_border=false&title_color=FFFFFF&icon_color=B0C4DE&text_color=FFFFFF&bg_color=0d1117" alt="Wladison Maciel Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wladison-Maciel&layout=compact&hide_border=false&title_color=FFFFFF&text_color=B0C4DE&bg_color=0d1117" />
+</div>

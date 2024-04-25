@@ -27,7 +27,7 @@
 </p>
 
 <p>
-  - I speak Portuguese/Brazil and English/Us 🗣💬
+  - I speak Portuguese/Brazil and English/Us 🇧🇷🇺🇲
 </p>
 
 <h3>

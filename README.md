@@ -1,57 +1,46 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+<h1 align="center">
+  Welcome to my profile
+</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F8F8FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Wladison+Maciel;I'm+16+years+old;Focused+on+Programming📚;I+from+Brazil,+CE;Welcome+to+My+Profile+:%29)](https://git.io/typing-svg)
+ <p align="center">
+  Hello, my name is Wladison Maciel and I'm passionate about programming 💻
+</p><br>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Wladison-Maciel&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="Wladison Maciel github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wladison-Maciel&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000" />
-</div>
+ <img src="https://github.com/Wladison-Maciel/PaginaWeb/assets/125041870/3dd30432-d30c-449a-98e3-b795e6ce31a5" width="460px" height="370px" align="right"/>
 
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Wladison-Maciel&theme=high-contrast)](https://github.com/Wladison-Maciel/github-readme-activity-graph)
-
-  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Wladison-Maciel&theme=onedark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+<h3>
+  About me:
+</h3>
+<p>
+  - I'am 17 years old, I study on IFCE Campus Fortaleza/Ce 📍
+</p>
+<p>
+  - I really like programming in the Back-End (Java, Kotlin, SQL) and in Mobile Apps ⚙
 </p>
 
-<div align="center">  
+<p>
+  - I also like to build websites mainly with frameworks (VueJs, Bootstrap) 🖥
+</p>
 
-## 📞Contacts:
+<p>
+  - My hobby is playing sports and my favorite is swimming 🏊‍♂️
+</p>
 
- <a href="https://www.instagram.com/eiwladison/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-<a href="mailto: franciscowladison97@gmail.com" target="_blank"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<a href="mailto: franciscowladison97@outlook.com" target="_blank"><img src= "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+<h3>
+  My main skills:
+</h3>
 
+
+<div inline>
+  
 </div>
+  <img align="center" alt="jv" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> 
+  <img align="center" alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" margintop="30px"/>
 
-<div align="center">
-
-## 💡 Core Skills:
-
-<div style="display: inline_block"><br/>
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="jv" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
-</div><br/>
+<h1 align="center">
+🚧 Construction 🚧
   
-## 👨‍💻 Studying at moment :
+</h1>
   
-<div style="display: inline_block"><br/>
+  
 
-  <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
-  <img align="center" alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
-
-</div><br/>
-
-## 🛠 My tools:
-
-![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-<div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>

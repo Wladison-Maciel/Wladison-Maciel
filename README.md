@@ -19,7 +19,7 @@
 </p>
 
 <p>
-  - I also like to build websites mainly with frameworks (VueJs, Bootstrap) 🖥
+  - I focus on learning about mobile development 📱
 </p>
 
 <p>
@@ -43,13 +43,13 @@
   Mains Skills 🎯
 </h3>
 
-![My Skills](https://skillicons.dev/icons?i=java,kotlin,mysql&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=java,kotlin&theme=dark)
 
 <h3>
   Learning in the moment 📚
 </h3>
 
-![Studying](https://skillicons.dev/icons?i=vue,html,css,ts&theme=dark)
+![Studying](https://skillicons.dev/icons?i=mysql&theme=dark)
 
 <h3>
   My work tools 🛠

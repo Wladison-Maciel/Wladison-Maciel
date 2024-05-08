@@ -6,7 +6,7 @@
   Hello, my name is Wladison Maciel and I'm passionate about programming 💻
 </h3><br>
 
- <img src="https://github.com/Wladison-Maciel/PaginaWeb/assets/125041870/3dd30432-d30c-449a-98e3-b795e6ce31a5" width="460px" height="370px" align="right"/>
+ <img alt="Java-Java" height="460" width="370" align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
 <h3>
   About me:

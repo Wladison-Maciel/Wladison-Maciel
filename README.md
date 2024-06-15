@@ -49,13 +49,13 @@
   Learning in the moment 📚
 </h3>
 
-![Studying](https://skillicons.dev/icons?i=mysql&theme=dark)
+![Worktools](https://skillicons.dev/icons?i=androidstudio,kotlin&theme=dark)
 
 <h3>
   My work tools 🛠
 </h3>
 
-![Worktools](https://skillicons.dev/icons?i=vscode,idea,androidstudio,nodejs,npm,figma,git&theme=dark)
+![Worktools](https://skillicons.dev/icons?i=vscode,idea,androidstudio,figma,git&theme=dark)
 
 <h2 align="center">
   📊 GitHub Stats 📊

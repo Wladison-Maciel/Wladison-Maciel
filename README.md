@@ -12,7 +12,7 @@
   About me:
 </h3>
 <p>
-  - I'am 17 years old, I study on IFCE Campus Fortaleza/Ce 📍
+  - I'am 18 years old, I study on IFCE Campus Fortaleza/Ce 📍
 </p>
 <p>
   - I really like programming in the Back-End (Java, Kotlin, SQL) and in Mobile Apps ⚙

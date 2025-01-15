@@ -49,7 +49,7 @@
   Learning in the moment 📚
 </h3>
 
-![Worktools](https://skillicons.dev/icons?i=androidstudio,kotlin&theme=dark)
+![Worktools](https://skillicons.dev/icons?i=androidstudio,kotlin,mongodb,express&theme=dark)
 
 <h3>
   My work tools 🛠

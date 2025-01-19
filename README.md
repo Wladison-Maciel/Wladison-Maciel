@@ -37,6 +37,7 @@
 <a href="https://www.instagram.com/eiwladison/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0F132E?style=for-the-badge&logo=instagram&logoColor=white" />
 <a href="mailto: franciscowladison97@gmail.com" target="_blank"><img src= "https://img.shields.io/badge/Gmail-0F132E?style=for-the-badge&logo=gmail&logoColor=white" />
 <a href="mailto: franciscowladison97@outlook.com" target="_blank"><img src= "https://img.shields.io/badge/Microsoft_Outlook-0F132E?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+<a href="https://www.linkedin.com/in/wladison-maciel-b943ba311/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0F132E.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 
 <h3>

@@ -44,19 +44,19 @@
   Mains Skills 🎯
 </h3>
 
-![My Skills](https://skillicons.dev/icons?i=java,kotlin&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,express,js&theme=dark)
 
 <h3>
   Learning in the moment 📚
 </h3>
 
-![Worktools](https://skillicons.dev/icons?i=androidstudio,kotlin,mongodb,express&theme=dark)
+![Worktools](https://skillicons.dev/icons?i=nodejs,kotlin&theme=dark)
 
 <h3>
   My work tools 🛠
 </h3>
 
-![Worktools](https://skillicons.dev/icons?i=vscode,idea,androidstudio,figma,git&theme=dark)
+![Worktools](https://skillicons.dev/icons?i=vscode,idea,androidstudio,figma,git,github&theme=dark)
 
 <h2 align="center">
   📊 GitHub Stats 📊

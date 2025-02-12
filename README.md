@@ -15,7 +15,7 @@
   - I'am 18 years old, I study on IFCE Campus Fortaleza/Ce 📍
 </p>
 <p>
-  - I really like programming in the Full-Stack (Java, Kotlin, JS) and in Mobile Apps ⚙
+  - I really like programming in the Full-Stack (NodeJs, Java, JS) and in Andrid Mobile Apps ⚙
 </p>
 
 <p>

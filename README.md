@@ -12,14 +12,14 @@
   About me:
 </h3>
 <p>
-  - I'am 18 years old, I study on IFCE Campus Fortaleza/Ce 📍
+  - I'am 18 years old, I study on Estácio 📍
 </p>
 <p>
-  - I really like programming in the Full-Stack (NodeJs, Java, JS) and in Andrid Mobile Apps ⚙
+  - I really like programming in the Back-End (NodeJs, Java, JS) and in Android Mobile Apps ⚙
 </p>
 
 <p>
-  - I focus on learning about mobile development 📱
+  - I focus on learning about Back-End development ⚙️
 </p>
 
 <p>
@@ -27,7 +27,7 @@
 </p>
 
 <p>
-  - I speak Portuguese/Brazil and English/Us 🗣💬
+  - I speak Portuguese/Brazil and English/Us(A2-B1) 🗣💬
 </p>
 
 <h3>

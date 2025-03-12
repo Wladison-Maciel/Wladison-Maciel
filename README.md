@@ -15,7 +15,7 @@
   - I'am 18 years old, I study on Estácio 📍
 </p>
 <p>
-  - I really like programming in the Back-End (NodeJs, Java, JS) and in Android Mobile Apps ⚙
+  - I really like programming in the Back-End (NodeJs, Java, JS, ExpressJS)🧩
 </p>
 
 <p>
@@ -27,7 +27,7 @@
 </p>
 
 <p>
-  - I speak Portuguese/Brazil and English/Us(A2-B1) 🗣💬
+  - I speak Portuguese/Brazil and English(A2-B1) 🗣💬
 </p>
 
 <h3>
@@ -44,19 +44,19 @@
   Mains Skills 🎯
 </h3>
 
-![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,express,js&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=java,nodejs,express,js&theme=dark)
 
 <h3>
   Learning in the moment 📚
 </h3>
 
-![Worktools](https://skillicons.dev/icons?i=nodejs,kotlin&theme=dark)
+![Worktools](https://skillicons.dev/icons?i=nodejs,postgres,sequelize,postman&theme=dark)
 
 <h3>
   My work tools 🛠
 </h3>
 
-![Worktools](https://skillicons.dev/icons?i=vscode,idea,androidstudio,figma,git,github&theme=dark)
+![Worktools](https://skillicons.dev/icons?i=vscode,eclipse,figma,git,github&theme=dark)
 
 <h2 align="center">
   📊 GitHub Stats 📊

@@ -50,7 +50,7 @@
   Learning in the moment 📚
 </h3>
 
-![Worktools](https://skillicons.dev/icons?i=nodejs,postgres,sequelize,postman&theme=dark)
+![Worktools](https://skillicons.dev/icons?i=nodejs,postgres,sequelize,postman,yarn&theme=dark)
 
 <h3>
   My work tools 🛠

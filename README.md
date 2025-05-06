@@ -44,13 +44,13 @@
   Mains Skills 🎯
 </h3>
 
-![My Skills](https://skillicons.dev/icons?i=java,nodejs,express,js&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=nodejs,postgres,express,js&theme=dark)
 
 <h3>
   Learning in the moment 📚
 </h3>
 
-![Worktools](https://skillicons.dev/icons?i=nodejs,postgres,sequelize,postman,yarn&theme=dark)
+![Worktools](https://skillicons.dev/icons?i=nodejs,sequelize,postman,yarn&theme=dark)
 
 <h3>
   My work tools 🛠

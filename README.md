@@ -15,7 +15,7 @@
   - I'am 18 years old, I study on Estácio 📍
 </p>
 <p>
-  - I really like programming in the Back-End (NodeJs, Java, JS, ExpressJS)🧩
+  - I really like programming in the Back-End (NodeJs, Database, JS, ExpressJS)🧩
 </p>
 
 <p>

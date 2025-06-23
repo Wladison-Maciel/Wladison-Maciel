@@ -15,7 +15,7 @@
   - I'am 18 years old, I study on Estácio 📍
 </p>
 <p>
-  - I really like programming in the Back-End (NodeJs, Database, JS, ExpressJS)🧩
+  - I really like programming in the Back-End (NodeJs, Java, Database, JS, ExpressJS)🧩
 </p>
 
 <p>
@@ -44,19 +44,19 @@
   Mains Skills 🎯
 </h3>
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,postgres,express,js,sequelize&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=nodejs,postgres,express,js,sequelize,react&theme=dark)
 
 <h3>
   Learning in the moment 📚
 </h3>
 
-![Worktools](https://skillicons.dev/icons?i=nodejs,react,vite&theme=dark)
+![Worktools](https://skillicons.dev/icons?i=java,gradle&theme=dark)
 
 <h3>
   My work tools 🛠
 </h3>
 
-![Worktools](https://skillicons.dev/icons?i=vscode,postman,figma,git,github,yarn,npm&theme=dark)
+![Worktools](https://skillicons.dev/icons?i=vscode,idea,postman,figma,git,github,yarn,npm&theme=dark)
 
 <h2 align="center">
   📊 GitHub Stats 📊
